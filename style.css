@@ -1,12 +1,12 @@
 .container {
     font-family: Arial, sans-serif;
 	display: flex;
-    border: 20px solid black;
+    border: 20px solid red;
     min-height: 400px;
 }
 .sidebar {
     width: 30%;
-    background-color: whitesmoke;
+    background-color:light green;
     border-right: 1px solid darkgray;
 }
 .sidebar li {
