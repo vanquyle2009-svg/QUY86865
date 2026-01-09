@@ -6,8 +6,8 @@
 }
 .sidebar {
     width: 30%;
-    background-color: whitesmoke;
-    border-right: 1px Sky blue ;
+    background-color: Sky blue;
+    border-right: 1px  light black ;
 }
 .sidebar li {
     padding: 10px 20px;
