@@ -1,13 +1,13 @@
 .container {
     font-family: Arial, sans-serif;
 	display: flex;
-    border: 20px solid Light green;
+    border: 20px solid black;
     min-height: 400px;
 }
 .sidebar {
     width: 30%;
-    background-color: solid Sky blue;
-    border-right: 1px  solid light black ;
+    background-color: whitesmoke;
+    border-right: 1px solid darkgray;
 }
 .sidebar li {
     padding: 10px 20px;
